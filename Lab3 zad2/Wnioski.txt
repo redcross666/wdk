@@ -1,0 +1,4 @@
+1. W sumie to nie rozumiem chyba pytania, ale u¿y³em jedynej mo¿liwoœci w Pythonie do wczytania pliku czyli open().
+U¿ytkownik sam podaje nazwy pliku. Dlaczego? Bo inaczej nie dzia³a³o. Na pocz¹tku chcia³em podawaæ je jako argumenty odpalania pliku z wiersza poleceñ, ale paczka pycrypto nie da³a rady sobie z tym poradziæ.
+2. 2048 bo styknie. Jest to d³ugoœæ klucza wojskowego.
+3.
